@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Debut Location feature.
+ */
+
+include_once 'debut_location.features.inc';
